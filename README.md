@@ -8,7 +8,7 @@ If you use the results and code, please cite our paper.
 @article{WWPF2023,
   title={nderwater Image Enhancement via Weighted Wavelet Visual Perception Fusion},
   author={Weidong Zhang, Ling Zhou, Peixian Zhuang, Guohou Li, Xipeng Pan, Wenyi Zhao, Chongyi Li},
-  journal={IIEEE Transactions on Circuits and Systems for Video Technology},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={},
   number={},
   pages={},
